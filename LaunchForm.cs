@@ -143,7 +143,7 @@ namespace Reversi
             this.Explanation_label.Name = "Explanation_label";
             this.Explanation_label.Size = new System.Drawing.Size(275, 26);
             this.Explanation_label.TabIndex = 8;
-            this.Explanation_label.Text = "Choose the amount of players (max. 4) and the size \nof your board. Enjoy this game of reve" +
+            this.Explanation_label.Text = "Choose the amount of players (max. 4 total) and\nthe size of your board. Enjoy this game of reve" +
                                            "rsi! ";
             // 
             // Start_Form

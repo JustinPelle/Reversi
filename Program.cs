@@ -17,8 +17,8 @@ namespace Reversi
         {
             InitializeComponent();
             NewGame_button.MouseClick += startGame;
-
         }
+
         public void startGame(object sender, MouseEventArgs mea)
         {
             int tableWidth, tableHeight, nPlayers, nPcPlayers;
